@@ -493,7 +493,7 @@ int main(int argc, char *argv[])
     printf("SConvert ver. %i.%i" STATUS_SHORT " build %i %s/%s/%s\n", MAJOR, MINOR, BUILD, DATE, MONTH, YEAR);
     printf("Web: <https://github.com/plamenbe/SConvert>\n");
     printf("Program converts .bin file into GeoSIG ASCII file format.\n");
-    printf("GeoSIG ASCII files might be viewed with GeoDAS software <https://www.geosig.com/>.\n\n");
+    printf("GeoSIG ASCII files can be viewed with GeoDAS software <https://www.geosig.com/>.\n\n");
     //printf("Use /? for help.\n\n");
 
     if (argc > 1)

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1537124195 source:c:\users\paco\documents\projects\sconvert\src\sconvert.cpp
+1537551277 source:c:\users\paco\documents\projects\sconvert\src\sconvert.cpp
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -9,5 +9,5 @@
 	<unistd.h>
 	"version.h"
 
-1537130939 c:\users\paco\documents\projects\sconvert\src\version.h
+1537553961 c:\users\paco\documents\projects\sconvert\src\version.h
 
