@@ -1,7 +1,8 @@
 # SConvert
-Program converts .bin files recorded by [SiLog] [siloggit] into GeoSIG ASCII file format.</br>
-GeoSIG ASCII files might be viewed with free GeoDAS software <https://www.geosig.com/>.
+Program converts .bin files recorded by [SiLog] into GeoSIG ASCII file format.</br>
+GeoSIG ASCII files can be viewed with free GeoDAS software <https://www.geosig.com/>.
 
-</br></br>Please check Wiki: https://github.com/plamenbe/SConvert/wiki
+</br></br>Please check [Wiki]: 
 
-[siloggit]: <https://github.com/plamenbe/SiLog>
+[SiLog]: https://github.com/plamenbe/SiLog
+[Wiki]: https://github.com/plamenbe/SConvert/wiki
